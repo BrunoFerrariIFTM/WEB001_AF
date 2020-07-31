@@ -1,0 +1,6 @@
+git clone "paste"
+cd WEB001_AF
+git add *
+git commit -m "adição das atividades"
+git push origin master
+
